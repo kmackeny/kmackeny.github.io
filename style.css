@@ -1,0 +1,141 @@
+body{
+  background-image: url("haikei3.jpeg");
+  text-align:center;
+  font-family:serif;
+}
+
+a{
+  display:inline-block;
+  cursor:pointer;
+  margin-bottom:10px;
+  border-radius: 20px;
+  box-shadow:5px white;
+  text-shadow: 3px 3px 3px gray;
+  text-decoration: none;
+}
+
+a:visited{
+  color:gray;
+}
+
+h1{
+  color:white;
+  background-color: black;
+}
+
+.fast{
+  background-color: white;
+}
+
+.fast:hover{
+  background-color:black;
+  color:white;
+}
+
+.fast:active{
+  box-shadow:none;
+  position:relative;
+  color:black;
+  top:5px;
+}
+
+.second{
+  background-color: white;
+}
+
+.second:hover{
+  background-color:black;
+  color:white;
+}
+
+.second:active{
+  box-shadow:none;
+  position:relative;
+  color:black;
+  top:5px;
+}
+
+.thard{
+  background-color: white;
+}
+
+.thard:hover{
+  background-color:black;
+  color:white;
+}
+
+.thard:active{
+  box-shadow:none;
+  position:relative;
+  color:black;
+  top:5px;
+}
+
+h2{
+  float:left;
+  margin-left:250px;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px gray;
+}
+
+ul{
+  list-style-type: none;
+  border-bottom:1px #666666 solid;
+}
+.group p{
+  padding-bottom:20px;
+  border-bottom: 1px #666666 solid;
+}
+
+.purpose p{
+  border-bottom: 1px #666666 solid;
+}
+
+.hobby {
+  border-bottom: 1px #666666 solid;
+  padding-bottom:20px;
+}
+
+.hobby1{
+  background-color:white;
+}
+
+.hobby1:hover{
+  background-color:black;
+  color:white;
+}
+
+.hobby1:active{
+  box-shadow:none;
+  position:relative;
+  top:5px;
+  color:black;
+}
+
+.hobby2{
+  background-color:white;
+}
+
+.hobby2:hover{
+  background-color:black;
+  color:white;
+}
+
+.hobby2:active{
+  box-shadow:none;
+  position:relative;
+  top:5px;
+  color:black;
+}
+
+img {
+  height:150PX;
+  border-radius:50%;
+  padding:0 30px;
+}
+
+
+h3{
+  margin:30px;
+  text-shadow: 3px 3px 3px gray;
+}
