@@ -12,6 +12,7 @@ a{
   box-shadow:5px white;
   text-shadow: 3px 3px 3px gray;
   text-decoration: none;
+  color:gray;
 }
 
 a:visited{
